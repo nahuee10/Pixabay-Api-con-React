@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pixabay-Api-con-React/static/css/main.11818b8b.chunk.css",
+    "main.js": "/Pixabay-Api-con-React/static/js/main.786c97c1.chunk.js",
+    "main.js.map": "/Pixabay-Api-con-React/static/js/main.786c97c1.chunk.js.map",
+    "runtime-main.js": "/Pixabay-Api-con-React/static/js/runtime-main.9b7c7771.js",
+    "runtime-main.js.map": "/Pixabay-Api-con-React/static/js/runtime-main.9b7c7771.js.map",
+    "static/js/2.355a6d45.chunk.js": "/Pixabay-Api-con-React/static/js/2.355a6d45.chunk.js",
+    "static/js/2.355a6d45.chunk.js.map": "/Pixabay-Api-con-React/static/js/2.355a6d45.chunk.js.map",
+    "index.html": "/Pixabay-Api-con-React/index.html",
+    "precache-manifest.7c031c7113e49474b6a1d9dcd78eeeb2.js": "/Pixabay-Api-con-React/precache-manifest.7c031c7113e49474b6a1d9dcd78eeeb2.js",
+    "service-worker.js": "/Pixabay-Api-con-React/service-worker.js",
+    "static/css/main.11818b8b.chunk.css.map": "/Pixabay-Api-con-React/static/css/main.11818b8b.chunk.css.map",
+    "static/js/2.355a6d45.chunk.js.LICENSE.txt": "/Pixabay-Api-con-React/static/js/2.355a6d45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b7c7771.js",
+    "static/js/2.355a6d45.chunk.js",
+    "static/css/main.11818b8b.chunk.css",
+    "static/js/main.786c97c1.chunk.js"
+  ]
+}
